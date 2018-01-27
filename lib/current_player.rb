@@ -7,4 +7,5 @@ def turn_count(board)
     end
     iter += 1
   end
+  return count
 end
